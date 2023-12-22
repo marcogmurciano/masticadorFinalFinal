@@ -84,7 +84,7 @@
             </div>
             
               <div class="comp3d">
-                <video class="video" autoplay loop muted controls="false" playsinline src="/video.MP4"></video>
+                
               </div>
             
         </div>
