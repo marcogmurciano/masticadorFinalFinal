@@ -35,7 +35,7 @@
         </div>
       </div>
     </div>
-    <img src="/ninio.webp" alt="" class="h-72 object-cover w-full" />
+    <img src="/ninio.webp" alt="" class="h-72 object-cover w-full mb-5" />
 </template>
 
 
