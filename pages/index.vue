@@ -78,13 +78,17 @@
       </div>
       <div class="body">
         <div class="body_left">
-            <div class="left_text">
+            <div class="left_text p-2">
               <h1>Masticador X Alpha</h1>
               <h2 class="soli">Producto solidario</h2>
             </div>
             
               <div class="comp3d">
-                <!-- <video class="video" autoplay loop muted controls="false" playsinline src="/video.MP4"></video> -->
+                <video class="video" autoplay loop muted controls="false" playsinline>
+                  <source src="/video.webm" type="video/webm">
+                  <source src="/video.mp4" type="video/mp4">
+                  <p>Your browser cannot play the provided video file.</p>
+                </video>
               </div>
             
         </div>
