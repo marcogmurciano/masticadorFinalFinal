@@ -84,7 +84,7 @@
             </div>
             
               <div class="comp3d">
-                <video class="video" autoplay loop muted controls="false" playsinline src="/video.MP4"></video>
+                <!-- <video class="video" autoplay loop muted controls="false" playsinline src="/video.MP4"></video> -->
               </div>
             
         </div>
@@ -94,7 +94,7 @@
                 <div class="bar_container flex flex-col gap-2" v-for="(data, i) in arrayk">
                     <h3 class="text-white mt-2 ml-2">{{arrayNames[i]}}</h3>
                         <div class="bar bg-white rounded-full flex items-center">
-                        <div :class= "`inner_bar w${data}percent`" ></div>
+                        <div :class= "`inner_bar w${data}percent`"></div>
                     <h3 class="percent">{{data}}%</h3>
                 </div>
         </div> 
