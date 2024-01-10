@@ -84,11 +84,13 @@
             </div>
             
               <div class="comp3d">
+
                 <video class="video" autoplay loop muted controls="false" playsinline>
                   <source src="/video.webm" type="video/webm">
                   <source src="/video.mp4" type="video/mp4">
                   <p>Your browser cannot play the provided video file.</p>
                 </video>
+                
               </div>
             
         </div>
@@ -141,26 +143,7 @@ const arrayNames = [
   "Tu vida se alarga en un",
 ];
 
-// const insertBars = () => {
-//   const barras = document.querySelector(".random_bars")
 
-//   if (barras == undefined) {
-    
-//   } else {
-//     let html = "";
-//   let counter = 0;
-//   for (const data of arrayk) {
-//     html += `
-
-
-//         `;
-//     counter++;
-//   }
-
-//   barras.innerHTML = html;
-//   }
-// };
-// insertBars();
 
 </script>
 
